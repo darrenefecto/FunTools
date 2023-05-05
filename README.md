@@ -20,10 +20,6 @@ To avoid viruses or other harmful software, it's recommended that you only downl
 
 FunTools is licensed under the GNU General Public License. You can find more information about the license [here](https://github.com/darrenefecto/FunTools/blob/master/LICENSE).
 
-## Related Projects or Ideas
-
-If you're interested in similar projects or ideas, check out the work of my friend [Abdul4968](https://github.com/Abdul4968), who had the same idea as me and created their own project. You can find their project at [here](https://github.com/Abdul4968/Hub).
-
 ## Screenshots
 <img src="./images/menu.jpg">
 <img src="./images/pong.jpg">
