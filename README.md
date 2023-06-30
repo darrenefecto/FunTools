@@ -14,7 +14,7 @@ To download FunTools, go to the "Releases" section of this repository and select
 
 ## Notice
 
-To avoid viruses or other harmful software, it's recommended that you only download FunTools from this repository.
+For a safe and enjoyable gaming experience, I recommend downloading FunTools only from this official repository. This way you can minimize the risk of exposure to viruses or other harmful programs. Please note that this game is designed specifically for Windows x86 (32-bit) operating systems. It may not be compatible with Windows x64 (64-bit) systems. Enjoy the game and thanks for your support!
 
 ## License
 
